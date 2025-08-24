@@ -35,9 +35,7 @@ A modern, responsive web application for tracking your fitness journey. Built wi
 - Progress tracking with visual indicators
 - Deadline management
 
-## 🖥️ **Live Demo**
 
-You can try the app live at: [Your GitHub Pages URL]
 
 ## 🚀 **Getting Started**
 
